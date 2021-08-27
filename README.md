@@ -10,7 +10,7 @@ Participated in the development and management of the site below.
 
 This Github is used
 - to record the blockchain developer training process 
-- to work at the SW education center.
+- to work at the software education center.
 <br><br>
 
 📫 Contact 
