@@ -6,7 +6,7 @@ I'm a teaching assistant at Digital Finance Labs and research assistant at Softw
 <br><br>
 Participated in the development and management of the site below.
 - [pnuswedu.org](https://pnuswedu.org)
-- [PNU Online Judge](http://oj.pnuswedu.org/)
+- [oj.pnuswedu.org](http://oj.pnuswedu.org/)
 <br><br>
 
 📫 Contact 
