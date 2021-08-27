@@ -7,7 +7,7 @@ I'm a teaching assistant at Digital Finance Labs and research assistant at Softw
 
 📫 Contact 
 --------------------------------------------------------------------------
-[![Github](https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=plastic)](https://github.com/HeeSek-Kwon)
+[![Github](https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=plastic)](https://github.com/HeeSeok-Kwon)
 ![Gmail](https://img.shields.io/badge/simongmltjr2022@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic)
 <br><br>
 
