@@ -4,7 +4,7 @@
 Currently attending graduate school at Pusan National University and my major is digital finance. <br>
 I'm a teaching assistant at Digital Finance Labs and research assistant at Software Education Center.
 <br><br>
-I am involved in the development of this site. [부산대학교 역량지원시스템](https://pnuswedu.org/main/index.php)
+I am involved in the development of [this site](https://pnuswedu.org/main/index.php). 
 <br><br>
 
 📫 Contact 
