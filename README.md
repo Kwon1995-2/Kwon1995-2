@@ -7,9 +7,7 @@ I'm a teaching assistant at Digital Finance Labs and research assistant at Softw
 Participated in the development and management of the site below.
 - [SW역량지원시스템](https://pnuswedu.org)
 - [PNU Online Judge](http://oj.pnuswedu.org/)
-<br>
 
-It is my first Github.<br>
 This Github is used
 - to record the blockchain developer training process 
 - to work at the SW education center.
