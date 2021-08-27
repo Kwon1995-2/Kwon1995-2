@@ -8,6 +8,9 @@ Participated in the development and management of the site below.
 - [SW역량지원시스템](https://pnuswedu.org)
 - [PNU Online Judge](http://oj.pnuswedu.org/)
 <br><br>
+This place is my first Github.<br>
+This Github is used to record the blockchain developer training process and to work at the SW education center.
+<br><br>
 
 📫 Contact 
 --------------------------------------------------------------------------
