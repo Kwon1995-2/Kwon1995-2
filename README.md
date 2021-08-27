@@ -10,9 +10,9 @@ Participated in the development and management of the site below.
 <br>
 
 It is my first Github.<br>
-This Github is used to 
-- record the blockchain developer training process 
-- work at the SW education center.
+This Github is used
+- to record the blockchain developer training process 
+- to work at the SW education center.
 <br><br>
 
 📫 Contact 
