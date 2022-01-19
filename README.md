@@ -4,7 +4,8 @@
 Currently attending graduate school at Pusan National University and my major is digital finance. <br>
 I'm a teaching assistant at Digital Finance Labs and research assistant at Software Education Center.
 <br><br>
-This Github is used to record the blockchain developer training process (2020.06.29 ~ 2020.12.29) 
+This Github is used 
+- to record the blockchain developer training process (2020.06.29 ~ 2020.12.29) 
 <br>
 
 📫 Contact 
