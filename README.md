@@ -4,15 +4,8 @@
 Currently attending graduate school at Pusan National University and my major is digital finance. <br>
 I'm a teaching assistant at Digital Finance Labs and research assistant at Software Education Center.
 <br><br>
-Participated in the development and management of the site below.
-- [SW역량지원시스템](https://pnuswedu.org)
-- [PNU Online Judge](http://oj.pnuswedu.org/)
-- [DiFiLab](https://sites.google.com/view/difilab)
-
-This Github is used
-- to record the blockchain developer training process 
-- to work at the software education center.
-<br><br>
+This Github is used to record the blockchain developer training process 
+<br>
 
 📫 Contact 
 --------------------------------------------------------------------------
